@@ -74,7 +74,7 @@ it('should take JS coverage', () => {
      * capture test coverage
      */
     const { result } = browser.cdp('Profiler', 'takePreciseCoverage')
-    coverage = result.filter((res) => res.url !== '')
+    const coverage = result.filter((res) => res.url !== '')
     console.log(coverage)
 })
 ```
