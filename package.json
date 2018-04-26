@@ -67,6 +67,7 @@
     }
   },
   "dependencies": {
+    "babel-runtime": "^6.26.0",
     "chrome-remote-interface": "^0.25.3",
     "node-netstat": "^1.4.2"
   }
