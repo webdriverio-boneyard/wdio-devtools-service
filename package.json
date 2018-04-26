@@ -1,6 +1,6 @@
 {
   "name": "wdio-devtools-service",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "WebdriverIO service that enables DevTools functionality for you WebDriver session",
   "author": "Christian Bromann <christian@saucelabs.com>",
   "license": "MIT",
